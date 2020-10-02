@@ -1,4 +1,4 @@
-# Assignment
+# ASSIGNMENT
 
 1 There were two dataset of Image first dataset was consist of modak image and second Dataset was consist of other object image and all image were collected using Google search engine
 
