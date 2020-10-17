@@ -1,7 +1,7 @@
 # ASSIGNMENT
 
 
-1 There were 2 dataset of Images, first dataset was consist of modak image & second Dataset was consist of other object image & all image were collected using Google search engine.
+1 There were 2 dataset of images, first dataset was consist of modak image & second Dataset was consist of other object image & all image were collected using Google search engine.
 
 2.Images were uploaded and converted into greyscale of 64X64 shape.Images were converted into greyscale to reduce the complexity in tuning the model.
 
